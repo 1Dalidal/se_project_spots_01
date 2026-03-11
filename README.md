@@ -53,6 +53,7 @@ Live Site:
 https://1Dalidal.github.io/se_project_spots_01/
 
 Repository:
+
 https://github.com/1Dalidal/se_project_spots_01.git
 
 ## Project Video Link
