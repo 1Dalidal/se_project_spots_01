@@ -51,12 +51,12 @@
     height: 18px;
   }
 
-  <<<<<<< HEAD .card__image {
+  .card__image {
     width: 100%;
     height: 288px;
   }
 
-  =======>>>>>>>3d90e56e12754970b3f00b27b19e0d989fe238ae .card__title {
+  .card__title {
     font-size: 18px;
     max-width: 265px;
   }
